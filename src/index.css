@@ -27,7 +27,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 /* Media Query */
-@media (max-width: 1380px) {
+@media (max-width: 2000px) {
   html,
   body {
     font-size: rem;

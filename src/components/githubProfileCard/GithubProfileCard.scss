@@ -15,6 +15,24 @@
   box-shadow: none;
 }
 
+.contact-detail-email:hover {
+  color: $textColor;
+  text-shadow: 2px 1px 2px $contactDetailHoverTS;
+  transition: all 0.3s;
+}
+
+.st0 {
+  fill: #000000;
+}
+
+.contact-detail-email {
+  margin-top: 20px;
+  font-size: 40px;
+  font-weight: 400;
+  color: $subTitle;
+  text-decoration: none;
+}
+
 .prof-title {
   margin: 0;
   font-size: 40px;
