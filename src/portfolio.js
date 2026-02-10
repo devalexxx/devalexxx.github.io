@@ -220,7 +220,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Source code",
-          url: "https://github.com/devalexxx/MinecraftClone"
+          url: "https://github.com/devalexxx/MCC"
         }
       ]
     }
